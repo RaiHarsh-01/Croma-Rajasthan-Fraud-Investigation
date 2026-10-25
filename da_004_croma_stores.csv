@@ -1,0 +1,5 @@
+Store_ID,Store_Name,City,Area,Open_Time,Close_Time,Store_Manager_ID
+ST01,Croma Jaipur,Jaipur,Tonk Road,10:30,21:30,E110
+ST02,Croma Ajmer,Ajmer,Vaishali Nagar,10:30,21:30,E120
+ST03,Croma Udaipur,Udaipur,Shobhagpura,10:30,21:30,E180
+ST04,Croma Jodhpur,Jodhpur,Ratanada,10:30,21:30,E200

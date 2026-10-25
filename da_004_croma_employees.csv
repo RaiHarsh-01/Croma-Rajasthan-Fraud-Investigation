@@ -1,0 +1,20 @@
+Emp_ID,Emp_Name,Role,Store_ID,Joining_Date,Exit_Date,Registered_Mobile
+E110,Kavita Joshi,Store Manager,ST01,2019-06-03,,9358813998
+E112,Neha Kapoor,Sales Executive,ST01,2021-02-15,,9698797309
+E115,Amit Verma,Sales Executive,ST01,2022-07-01,,9314170753
+E118,Pooja Meena,Customer Service Executive,ST01,2022-11-21,,9645568151
+E120,Rakesh Gupta,Store Manager,ST02,2018-09-10,,9784472940
+E122,Sunil Choudhary,Sales Executive,ST02,2020-04-06,,9955761698
+E125,Anjali Sharma,Sales Executive,ST02,2023-01-09,,9616897684
+E128,Deepak Soni,Customer Service Executive,ST02,2021-08-16,,9969788093
+E180,Vikram Rathore,Store Manager,ST03,2017-03-20,,9829041736
+E182,Priya Jain,Sales Executive,ST03,2020-10-12,,9631778486
+E185,Manish Paliwal,Sales Executive,ST03,2022-05-02,,9848876634
+E188,Kiran Dave,Customer Service Executive,ST03,2021-03-01,,9940029787
+E200,Mahesh Bishnoi,Store Manager,ST04,2019-01-14,,9534778768
+E203,Ritu Bhati,Sales Executive,ST04,2021-12-06,,9804571784
+E205,Lokesh Gehlot,Sales Executive,ST04,2023-06-19,,9626714751
+E207,Rohit Saini,Customer Service Executive,ST04,2025-10-06,,9462701079
+E209,Sanjay Purohit,Customer Service Executive,ST04,2020-02-03,2025-09-30,9719331908
+E301,Arjun Mehta,Purchase Head,,2018-04-02,,9552059972
+E305,Nisha Agarwal,Accounts Executive,,2022-09-05,,9737929841

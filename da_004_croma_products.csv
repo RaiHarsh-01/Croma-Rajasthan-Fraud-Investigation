@@ -1,0 +1,22 @@
+Product_ID,Brand,Category,Product_Name,Selling_Price,Standard_Cost
+P001,Samsung,Smartphones,Samsung Galaxy A35 5G (8GB/128GB),30999,26200
+P002,Apple,Smartphones,Apple iPhone 15 (128GB),69900,61500
+P003,OnePlus,Smartphones,OnePlus Nord CE4 5G (8GB/128GB),24999,21000
+P004,Xiaomi,Smartphones,Redmi Note 13 Pro 5G (8GB/256GB),23999,20300
+P005,Samsung,Smartphones,Samsung Galaxy S24 (8GB/256GB),74999,65000
+P006,HP,Laptops,"HP Pavilion 15 (Core i5, 16GB/512GB)",64990,56000
+P007,Dell,Laptops,"Dell Inspiron 15 (Core i3, 8GB/512GB)",42990,37000
+P008,Lenovo,Laptops,"Lenovo IdeaPad Slim 3 (Ryzen 5, 16GB/512GB)",52990,45500
+P009,Samsung,Televisions,Samsung 43-inch Crystal 4K UHD TV,32990,28000
+P010,LG,Televisions,LG 55-inch 4K UHD Smart TV,49990,42500
+P011,Sony,Televisions,Sony Bravia 55-inch 4K Google TV,77990,67000
+P012,LG,Appliances,LG 1.5 Ton 5 Star Split AC,46990,40000
+P013,Whirlpool,Appliances,Whirlpool 265L Double Door Refrigerator,28990,24500
+P014,Voltas,Appliances,Voltas 1.5 Ton 3 Star Split AC,35990,30500
+P015,LG,Appliances,LG 7kg Front Load Washing Machine,33990,28800
+P016,boAt,Audio & Accessories,boAt Airdopes 141 TWS Earbuds,1299,750
+P017,JBL,Audio & Accessories,JBL Flip 6 Bluetooth Speaker,9999,7800
+P018,boAt,Audio & Accessories,boAt Rockerz 450 Headphones,1499,900
+P019,Croma,Audio & Accessories,Croma 20000mAh Power Bank,1499,950
+P020,Croma,Audio & Accessories,Croma 65W USB-C Fast Charger,1999,1200
+P021,Apple,Audio & Accessories,Apple AirPods (2nd Gen),12900,10900
