@@ -1,0 +1,26 @@
+Problem
+Case study
+Write to Mr. Sharma and close the case:
+
+Headline: the culprit's name and role.
+Findings (3 to 5): at least 3 pieces of evidence, each with a number from the data; how the fraud worked; and why each of the other 4
+suspects is innocent, with data.
+Recommendation: two controls that would stop this fraud.
+Give each finding its key number, and add the query behind it if you can.
+
+Headline -- Store Manager Profile: Vikram Rathore – Croma Udaipur
+
+What did you find?
+Vikram Rathore stole 2090403.11/- from the Croma Udaipur store by processing fake refunds for unreturned items. 
+The entire stolen amount was transferred to the following UPI IDs: 9829041736@paytm and 9829041736@ybl.
+
+What did you find?
+Vikram Rathore processed 95 fake refund entries for unreturned items, transferring all funds to two UPI IDs.
+
+What did you find?
+The remaining staff at the Croma store have been cleared of suspicion, as system logs confirm that all fraudulent
+transactions were executed solely by Vikram Rathore using his Employee ID (E180).
+
+One change Croma can make
+To prevent recurring fraud, Croma should enforce system-level dual-manager authorization and strict physical inventory scan checks 
+before any high-value refund is release.
